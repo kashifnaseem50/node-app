@@ -1,0 +1,39 @@
+Script started on 2022-05-06 13:10:29+05:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="177" LINES="13"]
+    args    : "start"
+  }]
+}]0;kashif@Ninja: ~/Downloads/node-app[01;32mkashif@Ninja[00m:[01;34m~/Downloads/node-app[00m$     args    : "start"
+
+Command 'args' not found, but can be installed with:
+
+sudo apt install ucommon-utils
+
+]0;kashif@Ninja: ~/Downloads/node-app[01;32mkashif@Ninja[00m:[01;34m~/Downloads/node-app[00m$   }]
+}]: command not found
+]0;kashif@Ninja: ~/Downloads/node-app[01;32mkashif@Ninja[00m:[01;34m~/Downloads/node-app[00m$ }curl -X POST http://44.225.32.166:8080/job/abc/build --user admin:admin -H 'Jenkins-Crumb: 0db38413bd7ec9e98974f5213f7ead8b'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C}[K[Kgit commit -m ""a"d"d"e"d" "e"c"o"s"y"s"t"e"m" "f"i"l"e"
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m:[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;kashif@Ninja: ~/Downloads/node-app[01;32mkashif@Ninja[00m:[01;34m~/Downloads/node-app[00m$ git push
+Enumerating objects: 6, done.
+Counting objects:  16% (1/6)Counting objects:  33% (2/6)Counting objects:  50% (3/6)Counting objects:  66% (4/6)Counting objects:  83% (5/6)Counting objects: 100% (6/6)Counting objects: 100% (6/6), done.
+Delta compression using up to 4 threads
+Compressing objects:  25% (1/4)Compressing objects:  50% (2/4)Compressing objects:  75% (3/4)Compressing objects: 100% (4/4)Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 455 bytes | 151.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To github.com:kashifnaseem50/node-app.git
+   e5a8f29..52986f3  main -> main
+]0;kashif@Ninja: ~/Downloads/node-app[01;32mkashif@Ninja[00m:[01;34m~/Downloads/node-app[00m$ git pushcommit -m "added ecosystem file"curl -X POST http://44.225.32.166:8080/job/abc/build --user admin:admin -H 'Jenkins-Crumb: 0db38413bd7ec9e98974f5213f7ead8b'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15@jenkins-url:8080/job/<job-name>/build --user <username>:<password>[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15P44.225.32.166:8080/job/abc/build --user admin:admin[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m "added ecosystem file"[Kpush[K[Kgit add .
+]0;kashif@Ninja: ~/Downloads/node-app[01;32mkashif@Ninja[00m:[01;34m~/Downloads/node-app[00m$ git commit - [Km ""d"e"p"l"o"y"m"e"n"t"1"
+[main 962203a] deployment1
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ create mode 100644 :
+]0;kashif@Ninja: ~/Downloads/node-app[01;32mkashif@Ninja[00m:[01;34m~/Downloads/node-app[00m$ git push
+Enumerating objects: 6, done.
+Counting objects:  16% (1/6)Counting objects:  33% (2/6)Counting objects:  50% (3/6)Counting objects:  66% (4/6)Counting objects:  83% (5/6)Counting objects: 100
