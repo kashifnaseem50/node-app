@@ -7,6 +7,6 @@ ssh ubuntu@ec2-44-235-18-180.us-west-2.compute.amazonaws.com <<EOF
     nvm install v10.11.0
     npm install
     npm install -g nodemon pm2
-    pm2 restart ecosystem.config.js
+    pm2 start index.js
     exit
 EOF
